@@ -42,3 +42,4 @@ pytest-flask==1.2.0
 pytest-mock==3.6.1
 pytest-flask-sqlalchemy==1.0.2
 fuzzingbook==0.9.5
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability

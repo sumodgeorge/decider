@@ -37,7 +37,7 @@ py==1.11.0
 iniconfig==1.1.1
 pytest==6.2.5
 importlib-metadata==4.11.3
-zipp==3.8.0
+zipp==3.19.1
 pytest-flask==1.2.0
 pytest-mock==3.6.1
 pytest-flask-sqlalchemy==1.0.2
